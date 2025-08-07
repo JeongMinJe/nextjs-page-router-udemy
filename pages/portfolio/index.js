@@ -5,3 +5,5 @@ function PortFolioPage() {
     </div>
   );
 }
+
+export default PortFolioPage;
